@@ -66,7 +66,7 @@ Data Scientist @Soothsayer Analytics | AI • ML • LLMs • Backend Enthusiast
 ###  Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/damodar04](https://www.linkedin.com/in/damodar-bhawsar-/)" target="_blank">
+  <a href="https://www.linkedin.com/in/damodar04" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:damodar.7974@gmail.com" target="_blank">
