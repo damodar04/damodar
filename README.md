@@ -80,4 +80,4 @@ Data Scientist @Soothsayer Analytics | AI • ML • LLMs • Backend Enthusiast
 ---
 
 ###  “Building intelligent systems that work — not just think. ✨”  
-<p align="center"><b>— Anuj Patel</b></p>
+<p align="center"><b>— Damodar Bhawsar</b></p>
